@@ -28,7 +28,7 @@ small{
     font-family: digital;
     font-size: 45px;
     gap: 5px;
-    text-shadow: rgb(255, 255, 255, .7) 0px 0px 3px, rgb(255, 255, 255, .4) 1px 1px 5px, rgb(255, 255, 255, .4) 2px 2px 5px;
+    text-shadow: rgba(2, 191, 254, 0.7) 0px 0px 3px, rgb(255, 255, 255, .4) 1px 1px 5px, rgb(255, 255, 255, .4) 2px 2px 5px;
 }
 
 .time div{
